@@ -155,7 +155,7 @@ no extra fingers
 
 export const JEWELRY_PROMPT =  `
 使用上传的产品图作为唯一参考（single source of truth），生成一张超真实电商买家秀图片。
-
+{{ prompt }}
 # 核心任务
 
 人物正在真实自然地佩戴上传的手串，像普通消费者收到商品后随手拍摄的手机照片。
